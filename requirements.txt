@@ -6,7 +6,6 @@ langchain
 matplotlib
 pre-commit
 python-dotenv
-ray
 seaborn
 sentence_transformers
 streamlit
@@ -15,6 +14,7 @@ typer
 pydantic
 requests
 ipykernel
+cookiecutter
 
 # Vector DB
 asyncpg
